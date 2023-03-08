@@ -1,0 +1,29 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "4006000000010864",
+      "name": "NewsApp",
+      "domain": {
+        "id": "50012667540",
+        "name": "newsapp-60019943548.development"
+      },
+      "env": [
+        {
+          "idx": 1,
+          "id": "60019943548",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}

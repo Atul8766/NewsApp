@@ -1,0 +1,13 @@
+{
+  "functions": {
+    "targets": [
+      "NewsApp",
+      "news_app_function"
+    ],
+    "ignore": [],
+    "source": "functions"
+  },
+  "client": {
+    "source": "client"
+  }
+}
